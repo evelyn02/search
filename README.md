@@ -49,4 +49,4 @@ We'll be adhering to the [GitHub Ruby Styleguide](https://github.com/styleguide/
 Thank You
 ---------
 
-Many thanks are due to [Ara Howard](https://github.com/ahoward) for relinquishing the "search" gem name after five years of inactivity. Beer's on me if you ever find yourself at the [Collective Idea](https://github.com/collectiveidea) office.
+Many thanks are due to [Ara Howard](https://github.com/ahoward) for relinquishing the "search" gem name after five years of inactivity.
