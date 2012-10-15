@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |gem|
   gem.name    = 'search'
-  gem.version = '0.0.1'
+  gem.version = '0.0.2'
 
   gem.author      = 'Steve Richert'
   gem.email       = 'steve.richert@gmail.com'
