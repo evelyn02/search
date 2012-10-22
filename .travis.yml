@@ -1,4 +1,7 @@
 language: ruby
+notifications:
+  campfire:
+    secure: "gCr4rVod5cKfP+xFafkl1kBAnKUq9Mn0Zqq6zQ3AtbABuzD7iiWCMvXWlXrB\nNQmjMS16nRZ2N/2p409cRL6N9o8Bt+iq2cTp16TFP8y+5Mt8ETWKQCwzip0g\nmzOgDKTxNYYKkRsDeqoGP8FNzc5N6MFtgqwjOjO02TNbCddQ0Iw="
 rvm:
   - 1.8.7
   - 1.9.2
